@@ -12,7 +12,10 @@ A brief overview of what your app does and its purpose. Keep it concise and enga
 
 ## 📸 Screenshots
 ### Home Screen
-![Home Screen](path_to_image1)
+<div style="display: flex; gap: 10px;">
+  <img src="weatherProjectScreenshots/Screenshot 2024-12-14 at 14.28.05.jpeg" alt="Screenshot 1" width="45%" />
+  <img src="https://github.com/NoamRadiano/Weather-App/blob/main/weatherProjectScreenshots/Screenshot%202024-12-14%20at%2011.05.45.jpeg" alt="Screenshot 2" width="45%" />
+</div>
 ### Feature Screen
 ![Feature Screen](path_to_image2)
 ### Another Feature
