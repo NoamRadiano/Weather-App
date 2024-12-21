@@ -6,7 +6,7 @@ This is a **Weather App** built using **Node.js**, **React**, and **TypeScript**
 ## 📦 Technologies Used
 - **Frontend**: React (with TypeScript)
 - **Backend**: Node.js (with Express)
-- **Weather API**: WeatherAPI
+- **Weather API**
 - **Windy API**
 - **Package Manager**: Yarn
 
