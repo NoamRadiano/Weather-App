@@ -31,9 +31,6 @@ A brief overview of what your app does and its purpose. Keep it concise and enga
   <div style="display: flex; gap: 10px;">
   <img src="weatherProjectScreenshots/Screenshot 2024-12-14 at 11.06.42.jpeg" alt="Screenshot 2" width="92%" />
   </div>
-    <div style="display: flex; gap: 10px;">
-  <img src="weatherProjectScreenshots/Screenshot 2024-12-14 at 11.06.56.jpeg" alt="Screenshot 2" width="92%" />
-  </div>
 
 ### Feature Screen
 ![Feature Screen](path_to_image2)
