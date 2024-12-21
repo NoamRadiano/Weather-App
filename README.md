@@ -6,13 +6,15 @@ This is a **Weather App** built using **Node.js**, **React**, and **TypeScript**
 ## 📦 Technologies Used
 - **Frontend**: React (with TypeScript)
 - **Backend**: Node.js (with Express)
-- **Weather API**: [Weather API Service Name]
+- **Weather API**: WeatherAPI
+- **Windy API**
 - **Package Manager**: Yarn
 
 ## 🌟 Features
 - Search for current weather by city.
 - Real-time weather updates.
 - Displays weather details like temperature, humidity, wind speed, etc.
+- Displays a map showing wind speed, temperature, and other weather data for a selected city, with the ability to zoom in on the desired area.
 
 ## 📸 Screenshots
 ### Home Screen Day
